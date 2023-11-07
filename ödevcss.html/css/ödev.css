@@ -1,0 +1,17 @@
+
+.img-container {
+    float: left;
+    margin: 40px;
+}
+.text-red {
+    color: red;
+}
+div {
+    background-color: rgba(239, 216, 173, 0.774);
+}
+nav {
+    background-color: rgb(214, 231, 245);
+}
+article {
+    background-color: aliceblue;
+}
